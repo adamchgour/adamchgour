@@ -1,5 +1,5 @@
 # Hi 👋, I'm Adam
-🎓 Computer Science and Applied Mathematics student at Télécom paris<br>📚Currently seeking innovative approaches in statistical modeling, deep learning, and quantitative finance.<br>📫 How to reach me adam.chgour@telecom-paris.fr
+🎓 Computer Science and Applied Mathematics student at École Polytechnique<br>📚Currently seeking innovative approaches in statistical modeling, deep learning, and quantitative finance.<br>📫 How to reach me adam.chgour@telecom-paris.fr
 
 
 # 💻 Tech:
